@@ -1,0 +1,57 @@
+button{
+    width: 70px;
+    height: 40px;
+}
+.button15{
+
+background-color: brown;
+
+
+}
+
+
+
+.first{
+
+
+display: flex;
+background-color: rgb(202, 61, 26);
+
+}
+
+.second{
+
+
+    display: flex;
+    background-color: rgb(177, 113, 29);
+    
+    }
+
+    .third{
+
+
+        display: flex;
+        background-color: rgb(58, 160, 66);
+        
+        }
+
+
+.forth{
+    display: flex;
+        background-color: rgb(161, 112, 47);
+        
+
+
+}
+
+
+.fifth{
+
+
+    display: flex;
+    /* background-color: rgb(71, 36, 134); */
+    
+    }
+
+    
+   

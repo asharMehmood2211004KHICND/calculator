@@ -1,0 +1,11 @@
+.Body{
+    background-color: yellow;
+    height: 70vh;
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 7%;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid green;
+    
+}
